@@ -3,7 +3,7 @@
 This repository contains the R scripts that produce every numerical
 result of the paper *Employee Ownership and Entrenchment Strategies*
 (Gwenaël Piaser, IPAG Business School), submitted to *Games* (MDPI),
-manuscript games-4527113.
+manuscript games-4527113. Repository: https://github.com/gpiaser/Employee
 
 ## Contents
 
